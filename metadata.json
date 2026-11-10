@@ -1,0 +1,6 @@
+{
+  "name": "Camp Camp Dormitory",
+  "description": "ระบบจัดการและบริหารหอพัก camp camp สำหรับผู้ดูแลและผู้เช่า รองรับระบบบิล ค่าไฟ ค่าน้ำ การชำระเงิน และประกาศข่าวสาร",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

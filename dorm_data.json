@@ -1,0 +1,254 @@
+{
+  "pendingUsers": [],
+  "notifications": [
+    {
+      "type": "repair",
+      "read": true,
+      "linkTab": "dashboard",
+      "message": "ห้อง A104 แจ้งปัญหา: \"กลอนประตูด้านหลังห้องชำรุด 🔑\" (กลอนล็อกประตูระเบียงด้านหลังฝืดมาก ล็อกยากลำบาก รบกวนช่างมาช่วยหยอดน้ำมันหรือซ่อมให้หน่อยครับ)",
+      "date": "14/7/2569 21:22",
+      "title": "แจ้งซ่อมแซมและบำรุงใหม่ 🔧",
+      "id": "N1784038935130"
+    },
+    {
+      "linkTab": "pending-approvals",
+      "date": "14/7/2569 21:20",
+      "message": "คุณ ธนาคม ยื่นขอลงทะเบียนและจองห้อง A102 โทร: 0998889999",
+      "id": "N1784038831776",
+      "title": "ผู้เช่าใหม่ลงทะเบียนรอการอนุมัติ 📝",
+      "type": "registration",
+      "read": true
+    }
+  ],
+  "dormInfo": {
+    "phone": "081-234-5678",
+    "bankAccount": "123-4-56789-0",
+    "bankName": "ธนาคารกสิกรไทย (KBank)",
+    "accountName": "บริษัท แคมป์แคมป์ พร็อพเพอร์ตี้ จำกัด",
+    "electricRate": 8,
+    "name": "หอพัก camp camp",
+    "promptpayId": "0812345678",
+    "address": "99/9 หมู่ 2 ถนนมิตรภาพ ต.ในเมือง อ.เมือง จ.ขอนแก่น 40000",
+    "waterRate": 18
+  },
+  "tenants": [
+    {
+      "status": "resident",
+      "moveInDate": "2026-07-14",
+      "name": "ธนาคม",
+      "id": "T1784038850109",
+      "phone": "0998889999",
+      "password": "1234",
+      "roomId": "A102",
+      "leaseEndDate": "2027-07-14",
+      "username": "jotana",
+      "photo": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "photo": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=300&q=80",
+      "username": "somchai",
+      "leaseEndDate": "2027-01-10",
+      "roomId": "A101",
+      "password": "password123",
+      "phone": "089-111-2222",
+      "name": "นายสมชาย ใจดี",
+      "id": "T101",
+      "status": "resident",
+      "moveInDate": "2025-01-10"
+    }
+  ],
+  "roomRequests": [],
+  "announcements": [
+    {
+      "content": "ทางหอพักขอแจ้งปิดน้ำประปาชั่วคราวในวันพุธที่ 15 กรกฎาคม 2026 ตั้งแต่เวลา 09:00 น. ถึง 12:00 น. เพื่อทำการซ่อมบำรุงท่อน้ำส่วนกลางที่ชำรุด กรุณาสำรองน้ำไว้ใช้ล่วงหน้า ขออภัยในความไม่สะดวก",
+      "type": "maintenance",
+      "id": "N1",
+      "date": "2026-07-10",
+      "title": "แจ้งปิดน้ำประปาชั่วคราวเพื่อซ่อมบำรุงท่อส่วนกลาง",
+      "author": "ผู้ดูแลแคมป์แคมป์"
+    },
+    {
+      "type": "holiday",
+      "content": "สำนักงานนิติบุคคลหอพัก camp camp จะปิดทำการระหว่างวันที่ 25-28 กรกฎาคม 2026 ในกรณีฉุกเฉิน เช่น ไฟดับ น้ำรั่ว ท่อตัน สามารถโทรแจ้งเบอร์สายด่วนผู้ดูแลได้ตลอด 24 ชั่วโมง",
+      "author": "แอดมินใจดี",
+      "title": "ประกาศวันหยุดยาวช่วงเทศกาลเข้าพรรษา",
+      "id": "N2",
+      "date": "2026-07-08"
+    },
+    {
+      "content": "เพื่อความเป็นระเบียบเรียบร้อยและสุขอนามัยที่ดี ขอความร่วมมือผู้เช่าทุกท่านช่วยคัดแยกขยะเปียก ขยะแห้ง และขยะรีไซเคิลลงในถังขยะที่เตรียมไว้ให้ถูกต้อง ขอบคุณทุกท่านที่ให้ความร่วมมือ",
+      "type": "general",
+      "id": "N3",
+      "title": "ขอความร่วมมือคัดแยกขยะก่อนทิ้งที่จุดทิ้งขยะรวม",
+      "date": "2026-07-01",
+      "author": "นิติบุคคล"
+    }
+  ],
+  "repairs": [
+    {
+      "date": "2026-07-14",
+      "description": "กลอนล็อกประตูระเบียงด้านหลังฝืดมาก ล็อกยากลำบาก รบกวนช่างมาช่วยหยอดน้ำมันหรือซ่อมให้หน่อยครับ",
+      "id": "R1784038935124",
+      "roomId": "A104",
+      "status": "pending",
+      "subject": "กลอนประตูด้านหลังห้องชำรุด 🔑"
+    },
+    {
+      "roomId": "A101",
+      "status": "completed",
+      "date": "2026-07-13",
+      "description": "กลอนล็อกประตูระเบียงด้านหลังฝืดมาก ล็อกยากลำบาก รบกวนช่างมาช่วยหยอดน้ำมันหรือซ่อมให้หน่อยครับ",
+      "id": "R1783958159893",
+      "subject": "กลอนประตูด้านหลังห้องชำรุด 🔑"
+    },
+    {
+      "description": "แอร์ไม่เย็น",
+      "date": "2026-07-13",
+      "id": "R1783957158009",
+      "roomId": "A102",
+      "status": "completed",
+      "subject": "แอร์"
+    },
+    {
+      "status": "in_progress",
+      "roomId": "A102",
+      "date": "2026-07-11",
+      "description": "แอร์ในห้องพักเปิดแล้วไม่เย็น มีลมออกมาแต่ไม่เย็น และมีน้ำหยดลงมาสะสมตรงหัวเตียง รบกวนช่างเข้ามาตรวจสอบและล้างแอร์ด้วยค่ะ",
+      "id": "R1",
+      "subject": "เครื่องปรับอากาศไม่ค่อยเย็นและมีน้ำหยด"
+    },
+    {
+      "id": "R2",
+      "date": "2026-07-09",
+      "description": "ก๊อกน้ำในอ่างล้างจานบริเวณระเบียงห้องปิดสนิทแล้วแต่ยังมีน้ำหยดตลอดเวลา ทำให้เปลืองน้ำสะสม",
+      "roomId": "A101",
+      "status": "completed",
+      "subject": "ก๊อกน้ำอ่างล้างจานรั่วซึม"
+    }
+  ],
+  "bills": [
+    {
+      "waterRate": 18,
+      "prevElectric": 1200,
+      "month": "2026-07",
+      "prevWater": 150,
+      "electricAmount": 680,
+      "waterAmount": 216,
+      "slipUrl": "https://images.unsplash.com/photo-1554415707-6e8cfc93fe23?auto=format&fit=crop&w=300&q=80",
+      "paidAmount": 4396,
+      "paymentDate": "2026-07-03",
+      "paymentChannel": "PromptPay QR",
+      "totalAmount": 4396,
+      "roomId": "A101",
+      "currElectric": 1285,
+      "currWater": 162,
+      "id": "B101-07",
+      "electricRate": 8,
+      "status": "paid",
+      "rentAmount": 3500
+    },
+    {
+      "waterAmount": 324,
+      "electricAmount": 1280,
+      "month": "2026-07",
+      "prevWater": 210,
+      "paidAmount": 0,
+      "waterRate": 18,
+      "prevElectric": 2450,
+      "status": "unpaid",
+      "electricRate": 8,
+      "currWater": 228,
+      "id": "B102-07",
+      "rentAmount": 4200,
+      "roomId": "A102",
+      "totalAmount": 5804,
+      "currElectric": 2610
+    },
+    {
+      "id": "B104-07",
+      "currWater": 92,
+      "electricRate": 8,
+      "status": "unpaid",
+      "rentAmount": 5500,
+      "totalAmount": 6756,
+      "roomId": "A104",
+      "currElectric": 1110,
+      "prevWater": 80,
+      "month": "2026-07",
+      "waterAmount": 216,
+      "electricAmount": 1040,
+      "paidAmount": 0,
+      "waterRate": 18,
+      "prevElectric": 980
+    },
+    {
+      "electricAmount": 1360,
+      "waterAmount": 270,
+      "month": "2026-06",
+      "prevWater": 195,
+      "paymentDate": "2026-06-05",
+      "paidAmount": 5830,
+      "slipUrl": "https://images.unsplash.com/photo-1554415707-6e8cfc93fe23?auto=format&fit=crop&w=300&q=80",
+      "waterRate": 18,
+      "prevElectric": 2280,
+      "status": "paid",
+      "id": "B102-06",
+      "currWater": 210,
+      "electricRate": 8,
+      "rentAmount": 4200,
+      "roomId": "A102",
+      "totalAmount": 5830,
+      "paymentChannel": "Bank Transfer",
+      "currElectric": 2450
+    }
+  ],
+  "rooms": [
+    {
+      "status": "occupied",
+      "description": "ห้องพักมาตรฐาน เตียงเดี่ยว พัดลม ตู้เสื้อผ้า และโต๊ะเขียนหนังสือ",
+      "id": "A101",
+      "name": "ห้อง A101",
+      "price": 3500,
+      "tenantId": "T101",
+      "type": "Standard Cozy (พัดลม)",
+      "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "name": "ห้อง A102",
+      "id": "A102",
+      "description": "ห้องพักพร้อมเครื่องปรับอากาศ เตียงเดี่ยว เฟอร์นิเจอร์ครบชุด ระเบียงส่วนตัว",
+      "status": "occupied",
+      "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=600&q=80",
+      "type": "Standard Cozy (แอร์)",
+      "tenantId": "T1784038850109",
+      "price": 4200
+    },
+    {
+      "name": "ห้อง A103",
+      "description": "ห้องว่างปรับปรุงใหม่ พร้อมเครื่องปรับอากาศ เฟอร์นิเจอร์ไม้สไตล์มินิมอล",
+      "id": "A103",
+      "status": "vacant",
+      "image": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?auto=format&fit=crop&w=600&q=80",
+      "type": "Standard Cozy (แอร์)",
+      "price": 4200
+    },
+    {
+      "type": "Premium Suite (แอร์)",
+      "price": 5500,
+      "image": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=600&q=80",
+      "status": "vacant",
+      "name": "ห้อง A104",
+      "description": "ห้องพักขนาดใหญ่พิเศษ เตียงควีนไซส์ โซฟานั่งเล่น สมาร์ททีวี และตู้เย็น",
+      "id": "A104"
+    },
+    {
+      "description": "ห้องดีลักซ์ กำลังเปลี่ยนระบบไฟฟ้าและทาสีใหม่ คาดว่าจะเปิดให้เช่าเร็วๆ นี้",
+      "id": "A105",
+      "name": "ห้อง A105",
+      "status": "maintenance",
+      "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=600&q=80",
+      "price": 5500,
+      "type": "Premium Suite (แอร์)"
+    }
+  ]
+}
